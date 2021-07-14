@@ -45,3 +45,5 @@ testem.log
 Thumbs.db
 
 Local-weather-app/
+.env
+node_modules
